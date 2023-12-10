@@ -5,7 +5,7 @@
 ### Технологии которыми я владею:
 
 ![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=E9D54D)
-![CSS3](https://img.shields.io/badge/-ccs3-090909?style=for-the-badge&logo=css3&logoColor=E9D54D)
+![CSS3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=E9D54D)
 
 ### Технологии которые я изучаю:
 

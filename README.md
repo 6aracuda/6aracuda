@@ -13,4 +13,4 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=E9D54D)
 
-### Мой пет-проект над которым я работаю ➞ ![https://i.imgur.com/dgqGGP7.png](https://i.imgur.com/dgqGGP7.png)
+## Мой пет-проект над которым я работаю ➞ https://github.com/6aracuda/InkHouse

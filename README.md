@@ -14,3 +14,5 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=E9D54D)
 
 ## Мой пет-проект над которым я работаю ➞ https://github.com/6aracuda/InkHouse
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6aracuda&layout=compact&theme=vision-friendly-dark)](https://github.com/SergeyShurkhovetckii/github-readme-stats)

@@ -15,4 +15,4 @@
 
 ## Мой пет-проект над которым я работаю ➞ https://github.com/6aracuda/InkHouse
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6aracuda&layout=compact&theme=vision-friendly-dark)](https://github.com/SergeyShurkhovetckii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6aracuda&layout=compact&theme=vision-friendly-dark)](https://github.com/6aracuda/github-readme-stats)

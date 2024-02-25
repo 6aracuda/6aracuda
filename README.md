@@ -6,10 +6,14 @@
 
 ![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=E9D54D)
 ![CSS3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=E9D54D)
+![SASS](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=sass&logoColor=E9D54D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+
+### Инструменты которые я изучаю:
+![Webpack](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=Webpack&logoColor=E9D54D)
 
 ### Технологии которые я изучаю:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=E9D54D)
 

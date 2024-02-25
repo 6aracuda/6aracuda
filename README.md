@@ -9,9 +9,9 @@
 ![SASS](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass&logoColor=E9D54D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-### Инструменты которые я изучаю:
+### Инструменты которыми я владею:
 
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=0000CD)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=ADD8E6)
 
 ### Технологии которые я изучаю:
 

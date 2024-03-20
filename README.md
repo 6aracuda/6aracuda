@@ -18,6 +18,11 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=E9D54D)
 
+### Связь со мной и ссылки:
+
+#### LeetCode - https://leetcode.com/6aracuda/ 
+#### Mail - dotcom6aracuda@outlook.com
+
 ## Мой пет-проект над которым я работаю ➞ https://github.com/6aracuda/CyberPunk
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6aracuda&layout=compact&theme=vision-friendly-dark)](https://github.com/6aracuda/github-readme-stats)

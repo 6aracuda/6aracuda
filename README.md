@@ -21,6 +21,7 @@
 ### Связь со мной и ссылки:
 
 #### LeetCode - https://leetcode.com/6aracuda/ 
+#### CodeWars - https://www.codewars.com/users/6aracuda
 #### Mail - dotcom6aracuda@outlook.com
 
 ## Мой пет-проект над которым я работаю ➞ https://github.com/6aracuda/CyberPunk

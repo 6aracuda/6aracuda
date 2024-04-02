@@ -25,6 +25,4 @@
 #### CodeWars - https://www.codewars.com/users/6aracuda
 #### Mail - dotcom6aracuda@outlook.com
 
-## Мой пет-проект над которым я работаю ➞ https://github.com/6aracuda/CyberPunk
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6aracuda&layout=compact&theme=vision-friendly-dark)](https://github.com/6aracuda/github-readme-stats)

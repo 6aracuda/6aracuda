@@ -12,6 +12,7 @@
 ### Инструменты которыми я владею:
 
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=ADD8E6)
+![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite&logoColor=ADD8E6)
 
 ### Технологии которые я изучаю:
 
